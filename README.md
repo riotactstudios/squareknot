@@ -1,8 +1,8 @@
 <a align="center" href="https://getsquareknot.com"><img width="100%" src="https://getsquareknot.com/images/thumbnail.png" alt="Squareknot"></a>
 
-## Why it's awesome
+## What is Squareknot?
 
-Squareknot provides the basics for a responsive flex box grid system along with simple styles for a fast and clean starting point. It is lightweight, clean and easy to use!
+Squareknot provides the basics for a responsive flex box grid system along with simple styles for a fast and clean starting point. It is specifically designed to work with Wordpress, is lightweight, clean and easy to use!
 
 ## Table of Contents
 
