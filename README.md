@@ -6,17 +6,17 @@ Squareknot provides the basics for a responsive flex box grid system along with 
 
 ## Table of Contents
 
-- [Getting Started](https://getsquareknot.com/#getting-started)
-- [Typography](https://getsquareknot.com/#typography)
-- [Blockquotes](https://getsquareknot.com/#blockquotes)
-- [Buttons](https://getsquareknot.com/#buttons)
-- [Lists](https://getsquareknot.com/#lists)
-- [Forms](https://getsquareknot.com/#forms)
-- [Tables](https://getsquareknot.com/#tables)
-- [Grids](https://getsquareknot.com/#grids)
-- [Codes](https://getsquareknot.com/#codes)
-- [Utilities](https://getsquareknot.com/#utilities)
-- [Browser Support](https://getsquareknot.com/#browser-support)
+- [Getting Started](http://getsquareknot.com/#getting-started)
+- [Typography](http://getsquareknot.com/#typography)
+- [Blockquotes](http://getsquareknot.com/#blockquotes)
+- [Buttons](http://getsquareknot.com/#buttons)
+- [Lists](http://getsquareknot.com/#lists)
+- [Forms](http://getsquareknot.com/#forms)
+- [Tables](http://getsquareknot.com/#tables)
+- [Grids](http://getsquareknot.com/#grids)
+- [Codes](http://getsquareknot.com/#codes)
+- [Utilities](http://getsquareknot.com/#utilities)
+- [Browser Support](http://getsquareknot.com/#browser-support)
 
 ## License
 
