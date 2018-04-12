@@ -1,4 +1,4 @@
-<a align="center" href="https://getsquareknot.com"><img width="100%" src="https://getsquareknot.com/images/thumbnail.png" alt="Squareknot"></a>
+<a align="center" href="https://getsquareknot.com"><img width="50%" src="https://getsquareknot.com/images/logo.svg" alt="Squareknot"></a>
 
 ## What is Squareknot?
 
