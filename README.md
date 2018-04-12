@@ -2,7 +2,7 @@
 
 ## What is Squareknot?
 
-Squareknot provides the basics for a responsive flex box grid system along with simple styles for a fast and clean starting point. It is specifically designed to work with Wordpress, is lightweight, clean and easy to use!
+SquareKnot provides the basics for a mobile-first, responsive, flex box grid system along with simple styles for a fast and clean starting point. While it is not a full-fledged css platform, SquareKnot provides the foundation on which your entire website can be built. If you need additional styling, create a new style.css file and add to/overwrite anything you need to change.
 
 ## Table of Contents
 
