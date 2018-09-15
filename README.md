@@ -17,6 +17,7 @@ SquareKnot provides the basics for a mobile-first, responsive, flex box grid sys
 - [Tables](http://getsquareknot.com/#tables)
 - [Codes](http://getsquareknot.com/#code)
 - [Media Blocks](http://getsquareknot.com/#media)
+- [Alerts](http://getsquareknot.com/#alerts)
 - [Utilities](http://getsquareknot.com/#utilities)
 - [Media Queries](http://getsquareknot.com/#queries)
 - [Browser Support](http://getsquareknot.com/#support)
